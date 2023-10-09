@@ -43,8 +43,11 @@ Minha curiosidade inicial se tornou uma verdadeira paixão pela tecnologia, ao d
 <img align="left" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="100" height="100"> <img align="left" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100"> <img align="left" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="120" height="120"> <img align="left" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="120" height="120">
 </br>
 </br>
+
 </div>
+
 --- 
+
 </br>
 </br>
 <div>
