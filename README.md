@@ -32,8 +32,8 @@ Minha curiosidade inicial se tornou uma verdadeira paixão pela tecnologia, ao d
 <img align="right" width="200px" style="margin-top:-20px" src="/imgs/estudioso.png" width="50" height="200"/> </div>
 * Bacharel em Direito
 </br>
+* Cursando Engenharia de Software
 </br>
-* Cursando Engenharia de Software 
 
 ## Tecnologias: 
          
