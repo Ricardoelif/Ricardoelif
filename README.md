@@ -10,11 +10,11 @@
     <img align="left" width="80px" src="/imgs/instagram.png" alt="instagram" style="vertical-align:top;">
   
   <a href="https://www.linkedin.com/in/ricardoelif">
-    <img width="80px" src="/imgs/linkedin" alt="linkedin.png" style="vertical-align:top;">
+    <img width="80px" src="/imgs/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
-
+</br>
 
  
 ## Quem sou eu:
