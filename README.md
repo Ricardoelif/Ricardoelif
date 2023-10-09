@@ -29,7 +29,7 @@ Resolvi iniciar os estudos na área de tecnologia, pois, desde pequenp, sempre f
 Minha curiosidade inicial se tornou uma verdadeira paixão pela tecnologia, ao descobrir suas infinitas possibilidades e impacto positivo na sociedade. Hoje, com tudo que tenho vivenciado dessa área, já cogito  por uma migração profissional. 
 
 ## Formação Acadêmica:
-<img align="right" width="200px" style="margin-top:-20px" src="/imgs/estudioso.png" width="50" height="200"/> </div>
+<img align="right" width="200px" style="margin-top:-20px" src="/imgs/estudioso.png" width="75" height="300"/> </div>
 </br>
 * Bacharel em Direito
 * Cursando Engenharia de Software
