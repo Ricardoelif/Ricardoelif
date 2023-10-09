@@ -40,7 +40,7 @@ Minha curiosidade inicial se tornou uma verdadeira paixão pela tecnologia, ao d
 ## Tecnologias: 
 <img align="right" width="200px" style="margin-top:-20px" src="/imgs/trabalhador.png" width="50" height="200"/> 
 </br>
-<img align="left" width="100px" src="/imgs/html.png" width="100" height="100"> <img align="left" width="100px" src="/imgs/css3.png" width="100" height="100"> <img align="left" width="80px" src="/imgs/js.png" width="120" height="120"> <img align="left" width="80px" src="/imgs/python.png" width="120" height="120">
+<img align="left" width="100px" src="/imgs/html.png" width="50" height="100"> <img align="left" width="100px" src="/imgs/css3.png" width="50" height="100"> <img align="left" width="80px" src="/imgs/js.png" width="50" height="100"> <img align="left" width="80px" src="/imgs/python.png" width="50" height="100">
 </br>
 </br>
 
