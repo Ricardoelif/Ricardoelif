@@ -4,7 +4,8 @@ Graduado em Direito, com 15 anos de experiência sólida no setor público, foca
 
 
 - [X] Lógica de Programação
-- [X] Git & Github <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+- [X] Git & Github
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 - [ ] HTML5 e CSS3
 - [ ] JavaScript
 - [ ] Python
