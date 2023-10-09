@@ -5,6 +5,6 @@ Graduado em Direito, com 15 anos de experiência sólida no setor público, foca
 
 - [X] Lógica de Programação
 - [X] Git & Github
-- [] HTML5 e CSS3
-- [] JavaScript
-- [] Python
+- [ ] HTML5 e CSS3
+- [ ] JavaScript
+- [ ] Python
