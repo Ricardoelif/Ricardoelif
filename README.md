@@ -25,7 +25,7 @@
 Me chamo Ricardo, tenho 34 anos, sou casado e tenho uma filha linda chamada Catarina :heart: </br> 
 Sou graduado há 9 anos em Direito, e desde então, trabalho na área de licitações da Prefeitura de Joinville. </br>
 Adoro jogar video-games, assistir filmes e séries, ter bons momentos com minha família, e praticar exercícios. </br>
-Resolvi iniciar os estudos na área de tecnologia, pois, desde pequenp, sempre foi algo pelo qual me identifiquei. Todo dia aprendo algo novo, e pela primeira vez na vida estou adorando estudar :laughing: </br>
+Resolvi iniciar os estudos na área de tecnologia, pois, desde pequeno, sempre foi algo pelo qual me identifiquei. Todo dia estou aprendendo algo novo, e pela primeira vez na vida estou adorando estudar :laughing: </br>
 Minha curiosidade inicial se tornou uma verdadeira paixão pela tecnologia, ao descobrir suas infinitas possibilidades e impacto positivo na sociedade. Hoje, com tudo que tenho vivenciado dessa área, já cogito  por uma migração profissional. 
 
 ## Formação Acadêmica:
