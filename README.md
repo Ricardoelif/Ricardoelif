@@ -36,11 +36,10 @@ Minha curiosidade inicial se tornou uma verdadeira paixão pela tecnologia, ao d
 </br>
 </br>
 
-<div dsplay="inline-block">
- <img align="right" width="200px" style="margin-top:-20px" src="/imgs/trabalhador.png" width="50" height="100"/> </div>
 
 ## Tecnologias: 
-
+<img align="right" width="200px" style="margin-top:-20px" src="/imgs/trabalhador.png" width="50" height="100"/> </div>
+</br>
 <img align="left" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="vertical-align:top;"> <img align="left" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" style="vertical-align:top;"> <img align="left" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" style="vertical-align:top;"> <img align="left" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" style="vertical-align:top;">
-
-</div>
+</br>
+</br>
