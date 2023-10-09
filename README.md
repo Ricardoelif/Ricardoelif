@@ -35,7 +35,7 @@ Minha curiosidade inicial se tornou uma verdadeira paixão pela tecnologia, ao d
 * Cursando Engenharia de Software
 </br>
 
-<img align="right" width="200px" style="margin-top:-20px" src="/imgs/trabalhador.png" width="100" height="400"/> </div>
+<img align="right" width="200px" style="margin-top:-20px" src="/imgs/trabalhador.png" width="50" height="200"/> </div>
 <div dsplay="inline-block">
 
 ## Tecnologias: 
