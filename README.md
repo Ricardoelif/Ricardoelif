@@ -36,7 +36,7 @@ Minha curiosidade inicial se tornou uma verdadeira paixão pela tecnologia, ao d
 </br>
 </br>
 
-<img align="right" width="200px" style="margin-top:-20px" src="/imgs/trabalhador.png" width="300" height="400"/> </div>
+<img align="right" width="200px" style="margin-top:-20px" src="/imgs/trabalhador.png" width="50" height="100"/> </div>
 <div dsplay="inline-block">
  
 ## Tecnologias: 
