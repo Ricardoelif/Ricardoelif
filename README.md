@@ -30,9 +30,9 @@ Minha curiosidade inicial se tornou uma verdadeira paixão pela tecnologia, ao d
 
 ## Formação Acadêmica:
 <img align="right" width="200px" style="margin-top:-20px" src="/imgs/estudioso.png" width="50" height="200"/> </div>
-</br>
-</br>
 * Bacharel em Direito
+</br>
+</br>
 * Cursando Engenharia de Software 
 
 ## Tecnologias: 
