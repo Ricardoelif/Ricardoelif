@@ -7,10 +7,7 @@ Graduado em Direito, com 15 anos de experiência sólida no setor público, foca
 
 <img loading="lazy" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.pngtree.com%2Fso%2Fl%25C3%25B3gica&psig=AOvVaw29rrnrN6oYY52EI3f2JtHN&ust=1696950096469000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi0q--d6YEDFQAAAAAdAAAAABAE)" width="40" height="40"/> 
 
-- [X] Git & Github &nbsp;
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+- [X] <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
           
 - [ ] HTML5 e CSS3
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
