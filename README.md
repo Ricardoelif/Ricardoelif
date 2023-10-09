@@ -38,6 +38,7 @@ Minha curiosidade inicial se tornou uma verdadeira paixão pela tecnologia, ao d
 
 
 <div dsplay="inline-block">
+ 
 ## Tecnologias: 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100"/> 
@@ -48,4 +49,5 @@ Minha curiosidade inicial se tornou uma verdadeira paixão pela tecnologia, ao d
 ## Estudando: :books: 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90" height="90"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"/>
+
 </div>
