@@ -2,7 +2,14 @@
 
 <div align="right"> <img src="/imgs/spidertocat.png" width="200" height="200"/> </div>
 
-   Graduado em Direito, com 15 anos de experiência sólida no setor público, focado em licitações. Atualmente, estou dedicado ao meu curso de Engenharia de Software, e aprofundando meu conhecimento em linguagens de programação por meio de cursos online. Minha curiosidade inicial se tornou uma verdadeira paixão pela tecnologia, ao descobrir suas infinitas possibilidades e impacto positivo na sociedade. Meu objetivo é contribuir para projetos inovadores, colaborar com equipes talentosas e continuar aprendendo nesse campo em constante evolução. Estou entusiasmado em explorar novos horizontes e enfrentar os desafios emocionantes que a tecnologia oferece.
+ 
+## Quem sou eu:
+
+Me chamo Ricardo, tenho 34 anos, sou casado e tenho uma filha linda :heart: 
+Sou graduado há 9 anos em Direito, e desde então, trabalho na área de licitações da Prefeitura de Joinville.
+Adoro jogar video-games, assistir filmes e séries, ter bons momentos com minha família, e praticar exercícios.
+Resolvi iniciar os estudos na área de tecnologia, pois, desde pequenp, sempre foi algo pelo qual me identifiquei. Todo dia aprendo algo novo, e pela primeira vez na vida estou adorando estudar :laughing:
+Minha curiosidade inicial se tornou uma verdadeira paixão pela tecnologia, ao descobrir suas infinitas possibilidades e impacto positivo na sociedade. Hoje, com tudo que tenho vivenciado dessa área, já cogito  por uma migração profissional. <div align="right"> <img src="/imgs/daftpunktocat-thomas.gif" width="100" height="100"/> </div>
 
 ## Formação Acadêmica:
 
