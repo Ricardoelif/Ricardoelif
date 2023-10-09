@@ -11,7 +11,10 @@
   
   <a href="https://www.linkedin.com/in/ricardoelif">
     <img width="80px" src="/imgs/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
+  
+ <a href = "mailto:contato@ricardoelca">
+    <img align="left" width="80px" src="/imgs/email.png" alt="instagram" style="vertical-align:top;">
+   </a>
 </div>
 
 </br>
