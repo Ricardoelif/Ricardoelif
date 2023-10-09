@@ -1,4 +1,4 @@
-<img align="right" width="400px" style="margin-top:-20px" src="/imgs/daftpunktocat-thomas.gif" width="200" height="200"/> </div>
+<img align="right" width="400px" style="margin-top:-20px" src="/imgs/daftpunktocat-thomas.gif" width="200" height="400"/> </div>
 
 </br>
 </br>
