@@ -40,8 +40,8 @@ Minha curiosidade inicial se tornou uma verdadeira paixão pela tecnologia, ao d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90" height="90"/> <div align="right">
 
-## Loading ...
-<img align="right" width="200px" style="margin-top:-20px" src="/imgs/trabalhador.png" width="500" height="200"/> </div>
+#### Loading ...
+<img align="right" width="200px" style="margin-top:-20px" src="/imgs/trabalhador.png" width="50" height="200"/> </div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"/>
 
