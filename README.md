@@ -7,7 +7,7 @@
  
  <h1 align="left">Ricardo Eli Francisco</h1>
  <a href="https://www.instagram.com/ricardoelif">
-    <img align="left" width="100px" src="/imgs/instagram.png" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="100px" src="/imgs/instagram.png" width="50" height="200">
   
   <a href="https://www.linkedin.com/in/ricardoelif">
     <img width="80px" src="/imgs/linkedin.png" alt="linkedin" style="vertical-align:top;">
