@@ -13,7 +13,7 @@
     <img width="80px" src="/imgs/linkedin.png" alt="linkedin" width="80" height="100">
   
  <a href = "mailto:contato@ricardoelca">
-    <img align="left" width="80px" src="/imgs/email.png" width="100" height="150">
+    <img align="left" width="80px" src="/imgs/email.png" width="100" height="120">
    </a>
 </div>
 
