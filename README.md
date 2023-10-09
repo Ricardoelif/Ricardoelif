@@ -7,7 +7,7 @@
  
  <h1 align="left">Ricardo Eli Francisco</h1>
  <a href="https://www.instagram.com/ricardoelif">
-    <img align="left" width="80px" src="/imgs/instagram.png" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="100px" src="/imgs/instagram.png" alt="instagram" style="vertical-align:top;">
   
   <a href="https://www.linkedin.com/in/ricardoelif">
     <img width="80px" src="/imgs/linkedin.png" alt="linkedin" style="vertical-align:top;">
@@ -45,12 +45,3 @@ Minha curiosidade inicial se tornou uma verdadeira paixão pela tecnologia, ao d
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"/>
 
----
-
-## Contatos:
-
-<div>
-<a href="https://instagram.com/ricardoelif" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@ricardoelca"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ricardoelif" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
