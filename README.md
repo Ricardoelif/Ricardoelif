@@ -10,7 +10,7 @@
     <img align="left" width="100px" src="/imgs/instagram.png" width="40" height="90">
   
   <a href="https://www.linkedin.com/in/ricardoelif">
-    <img width="80px" src="/imgs/linkedin.png" alt="linkedin" width="50" height="100">
+    <img width="80px" src="/imgs/linkedin.png" alt="linkedin" width="50" height="50">
   
  <a href = "mailto:contato@ricardoelca">
     <img align="left" width="80px" src="/imgs/email.png" width="50" height="100">
