@@ -1,17 +1,25 @@
 # Ricardo Eli Francisco
 
-<p align="right">
-  <a href="https://www.instagram.com/ricardoelif">
-    <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/instagram.png" width="40" height="40" alt="Instagram"/>
-  </a>
-  <a href="mailto:contato@ricardoelca">
-    <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/email.png" width="40" height="40" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ricardoelif">
-    <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/linkedin.png" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/daftpunktocat-thomas.gif" width="180" height="200" alt="Imagem de perfil estilizada"/>
-</p>
+<table width="100%">
+  <tr>
+    <!-- Coluna para ícones de redes sociais -->
+    <td valign="middle" align="left">
+      <a href="https://www.instagram.com/ricardoelif">
+        <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/instagram.png" width="180" height="200" alt="Instagram"/>
+      </a>
+      <a href="mailto:contato@ricardoelca">
+        <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/email.png" width="180" height="200" alt="Email"/>
+      </a>
+      <a href="https://www.linkedin.com/in/ricardoelif">
+        <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/linkedin.png" width="180" height="200" alt="LinkedIn"/>
+      </a>
+    </td>
+    <!-- Coluna para a imagem daftpunkcat -->
+    <td valign="middle" align="right">
+      <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/daftpunktocat-thomas.gif" width="180" height="200" alt="Imagem de perfil estilizada"/>
+    </td>
+  </tr>
+</table>
 
 ## Quem sou eu
 
