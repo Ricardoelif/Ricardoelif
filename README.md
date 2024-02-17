@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/daftpunktocat-thomas.gif" width="200" height="200" alt="Imagem de perfil estilizada"/>
+  <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/daftpunktocat-thomas.gif" width="180" height="200" alt="Imagem de perfil estilizada"/>
 </p>
 
 # Ricardo Eli Francisco
