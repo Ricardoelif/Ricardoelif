@@ -7,7 +7,7 @@
  
  <h1 align="left">Ricardo Eli Francisco</h1>
  <a href="https://www.instagram.com/ricardoelif">
-    <img align="left" width="100px" src="/imgs/instagram.png" width="20" height="70">
+    <img align="left" width="100px" src="/imgs/instagram.png" width="0" height="70">
  
  <a href = "mailto:contato@ricardoelca">
     <img align="left" width="80px" src="/imgs/email.png" width="35" height="80">
