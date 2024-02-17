@@ -1,38 +1,36 @@
-# Ricardo Eli Francisco
+<img align="right" width="400px" style="margin-top:-20px" src="/imgs/daftpunktocat-thomas.gif" width="200" height="400"/> </div>
 
-<table width="100%">
-  <tr>
-    <!-- Coluna para ícones de redes sociais -->
-    <td valign="middle" align="left">
-      <a href="https://www.instagram.com/ricardoelif">
-        <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/instagram.png" width="100" height="100" alt="Instagram"/>
-      </a>
-      <a href="mailto:contato@ricardoelca">
-        <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/email.png" width="100" height="100" alt="Email"/>
-      </a>
-      <a href="https://www.linkedin.com/in/ricardoelif">
-        <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/linkedin.png" width="100" height="100" alt="LinkedIn"/>
-      </a>
-    </td>
-    <!-- Coluna para a imagem daftpunkcat -->
-    <td valign="middle" align="right">
-      <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/daftpunktocat-thomas.gif" width="180" height="200" alt="Imagem de perfil estilizada"/>
-    </td>
-  </tr>
-</table>
+</br>
+</br>
 
-## Quem sou eu
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Ricardo Eli Francisco</h1>
+ <a href="https://www.instagram.com/ricardoelif">
+    <img align="left" width="100px" src="/imgs/instagram.png" width="40" height="90">
+ 
+ <a href = "mailto:contato@ricardoelca">
+    <img align="left" width="80px" src="/imgs/email.png" width="50" height="100">
 
-- **Idade:** 34 anos
-- **Profissão:** Funcionário público
-- **Interesses:** Python, Data Science, Machine Learning, Desenvolvimento WEB
-- **Hobbies:** Video-games, filmes e séries
+   <a href="https://www.linkedin.com/in/ricardoelif">
+    <img width="80px" src="/imgs/linkedin.png" alt="linkedin" width="100" height="90">
+   </a>
+</div>
 
-## Formação Acadêmica
+</br>
 
-<p align="right">
-  <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/estudioso.png" width="100" height="200" alt="Imagem de estudo"/>
-</p>
+ 
+## Quem sou eu:
 
-- Bacharel em Direito
-- Cursando Engenharia de Software
+* Ricardo, tenho 34 anos, funcionário público. <br>
+* Interesses: Python / Data Science / Machine Learning / Desenvolvimento WEB. <br>
+* Hobbys: Video-games, filmes e séries. <br>
+
+
+## Formação Acadêmica:
+<img align="right" width="200px" style="margin-top:-20px" src="/imgs/estudioso.png" width="50" height="200"/> </div>
+</br>
+* Bacharel em Direito
+* Cursando Engenharia de Software
+</br>
+</br>
