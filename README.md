@@ -1,38 +1,33 @@
-<img align="right" width="400px" style="margin-top:-20px" src="/imgs/daftpunktocat-thomas.gif" width="200" height="400"/> </div>
+<p align="right">
+  <img src="/imgs/daftpunktocat-thomas.gif" width="200" height="400"/>
+</p>
 
-</br>
-</br>
+# Ricardo Eli Francisco
 
-<div dsplay="inline-block">
- 
- <h1 align="left">Ricardo Eli Francisco</h1>
- <a href="https://www.instagram.com/ricardoelif">
-    <img align="left" width="100px" src="/imgs/instagram.png" width="40" height="90">
- 
- <a href = "mailto:contato@ricardoelca">
-    <img align="left" width="80px" src="/imgs/email.png" width="50" height="100">
+<p align="left">
+  <a href="https://www.instagram.com/ricardoelif">
+    <img src="/imgs/instagram.png" width="40" height="40"/>
+  </a>
+  <a href="mailto:contato@ricardoelca">
+    <img src="/imgs/email.png" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ricardoelif">
+    <img src="/imgs/linkedin.png" width="40" height="40"/>
+  </a>
+</p>
 
-   <a href="https://www.linkedin.com/in/ricardoelif">
-    <img width="80px" src="/imgs/linkedin.png" alt="linkedin" width="100" height="90">
-   </a>
-</div>
+## Quem sou eu
 
-</br>
+- **Idade:** 34 anos
+- **Profissão:** Funcionário público
+- **Interesses:** Python, Data Science, Machine Learning, Desenvolvimento WEB
+- **Hobbies:** Video-games, filmes e séries
 
- 
-## Quem sou eu:
+## Formação Acadêmica
 
-* Ricardo, tenho 34 anos, funcionário público. <br>
-* Interesses: Python / Data Science / Machine Learning / Desenvolvimento WEB. <br>
-* Hobbys: Video-games, filmes e séries. <br>
+<p align="right">
+  <img src="/imgs/estudioso.png" width="100" height="200"/>
+</p>
 
-
-## Formação Acadêmica:
-<img align="right" width="200px" style="margin-top:-20px" src="/imgs/estudioso.png" width="50" height="200"/> </div>
-</br>
-* Bacharel em Direito
-* Cursando Engenharia de Software
-</br>
-</br>
-
-
+- Bacharel em Direito
+- Cursando Engenharia de Software
