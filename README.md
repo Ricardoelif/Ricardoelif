@@ -30,6 +30,6 @@
 ## Formação Acadêmica:
 
 * Bacharel em Direito
-* Cursando Engenharia de Software
+* Cursando Análise e Desenvolvimento de Sistemas
 </br>
 </br>
