@@ -5,13 +5,13 @@
     <!-- Coluna para ícones de redes sociais -->
     <td valign="middle" align="left">
       <a href="https://www.instagram.com/ricardoelif">
-        <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/instagram.png" width="180" height="200" alt="Instagram"/>
+        <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/instagram.png" width="100" height="100" alt="Instagram"/>
       </a>
       <a href="mailto:contato@ricardoelca">
-        <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/email.png" width="180" height="200" alt="Email"/>
+        <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/email.png" width="100" height="100" alt="Email"/>
       </a>
       <a href="https://www.linkedin.com/in/ricardoelif">
-        <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/linkedin.png" width="180" height="200" alt="LinkedIn"/>
+        <img src="https://github.com/Ricardoelif/Ricardoelif/blob/main/imgs/linkedin.png" width="100" height="100" alt="LinkedIn"/>
       </a>
     </td>
     <!-- Coluna para a imagem daftpunkcat -->
