@@ -9,12 +9,12 @@
  <a href="https://www.instagram.com/ricardoelif">
     <img align="left" width="100px" src="/imgs/instagram.png" width="0" height="95">
  
- <a href = "mailto:contato@ricardoelca">
-    <img align="left" width="80px" src="/imgs/email.png" width="50" height="100">
-
-   <a href="https://www.linkedin.com/in/ricardoelif">
+ <a href="https://www.linkedin.com/in/ricardoelif">
     <img width="80px" src="/imgs/linkedin.png" alt="linkedin" width="90" height="90">
    </a>
+
+ <a href = "mailto:contato@ricardoelca">
+    <img align="left" width="80px" src="/imgs/email.png" width="50" height="100">
 </div>
 
 </br>
